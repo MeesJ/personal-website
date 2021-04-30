@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# Full Name
+Test test test
+## Header 2 
 
-You can use the [editor on GitHub](https://github.com/MeesJ/personal-website/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Test test test test test
+### Heading 3
+adaw test test test test
+#### heading 4!!!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+woohoo 
 
-### Markdown
+##### heading 5
+can it get even smaller
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+###### header 6
+yes
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MeesJ/personal-website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![alternative tekst](https://img.pixers.pics/pho_wat%28s3:700/FO/31/02/72/41/700_FO31027241_59b0bf4bb463e19659787b9bdaa4b07e.jpg,700,467,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,417,jpg%29/fotobehang-oog-en-visie-test.jpg.jpg)
